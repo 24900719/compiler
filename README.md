@@ -4,6 +4,7 @@
 Create a CGPA calculator using Flex and Bison that allows users to enter grades and credits for multiple semesters using a menu-driven interface and compute GPA and CGPA.
 # Register number:212224040298
 # Date:31.3.2026
+# Name:K SARANYA.
 # Aim:
 To create a CGPA calculator using Flex and Bison that allows users to enter grades and credits for multiple semesters using a menu-driven interface and compute GPA and CGPA.
 
