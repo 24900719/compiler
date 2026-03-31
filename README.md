@@ -8,22 +8,35 @@ Create a CGPA calculator using Flex and Bison that allows users to enter grades 
 To create a CGPA calculator using Flex and Bison that allows users to enter grades and credits for multiple semesters using a menu-driven interface and compute GPA and CGPA.
 
 # Algorithm:
-
 1.Start the program.
+
 2.Initialize an empty symbol table.
+
 3.Read the input string ending with ‘$’.
+
 4.Set index to the first character.
+
 5.Check if the current character is a variable.
+
 6.If yes, check the next character.
+
 7.If the next character is an operator:
+
 8.Allocate memory using malloc.
+
 9.Store the variable and its memory address in the symbol table.
+
 10.Move to the next character.
+
 11.Repeat steps 5 to 10 until ‘$’ is reached.
+
 12.Ask the user to enter a variable to search.
+
 13.Search the symbol table for the variable.
+
 14.If found, display the variable and its memory address.
 Else, display “Variable not found”.
+
 15.Stop the program.
 
 # Program:
